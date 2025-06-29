@@ -1,0 +1,17 @@
+{
+  "userName": "j.doe@example.com",
+  "name": {
+    "formatted": "Jane Doe",
+    "familyName": "Doe",
+    "givenName": "Jane"
+  },
+  "emails": [
+    {
+      "primary": true,
+      "value": "j.doe@example.com",
+      "type": "work"
+    }
+  ],
+  "active": true,
+  "title": "Solutions Architect"
+}

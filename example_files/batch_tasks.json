@@ -1,0 +1,29 @@
+[
+  {
+    "type": "deactivate",
+    "target": "old.user@example.com",
+    "data": null
+  },
+  {
+    "type": "update",
+    "target": "j.doe@example.com",
+    "data": {
+      "title": "Senior Engineer"
+    }
+  },
+  {
+    "type": "add-to-group",
+    "target": "j.doe@example.com",
+    "data": "Engineers"
+  },
+  {
+    "type": "add-to-group",
+    "target": "another.user@example.com",
+    "data": "Engineers"
+  },
+  {
+    "type": "remove-from-group",
+    "target": "leaving.user@example.com",
+    "data": "Old Team"
+  }
+]

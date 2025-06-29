@@ -1,0 +1,12 @@
+[
+  {
+    "type": "add-to-group",
+    "target": "new.hire@example.com",
+    "data": "Engineers"
+  },
+  {
+    "type": "remove-from-group",
+    "target": "leaving.employee@example.com",
+    "data": "Engineers"
+  }
+]
